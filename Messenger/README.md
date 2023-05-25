@@ -1,33 +1,3 @@
-# Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher (2023)
-
-**Node version 14.x**
-
-### Install packages
-
-```shell
-npm i
-```
-
-### Setup .env file
-
-
-```js
-DATABASE_URL=
-NEXTAUTH_SECRET=
-
-NEXT_PUBLIC_PUSHER_APP_KEY=
-PUSHER_APP_ID=
-PUSHER_SECRET=
-
-NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=
-
-GITHUB_ID=
-GITHUB_SECRET=
-
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
-```
-
 ### Setup Prisma
 
 ```shell
